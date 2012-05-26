@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Service
+Exec=blubb
+Icon=internet-web-browser
+Comment=Simple web browser for KDevelop
+Name=WebBrowser
+ServiceTypes=KDevelop/Plugin
+
+X-KDE-Library=KDevelopWebBrowser
+X-KDE-PluginInfo-Name=KDevelopWebBrowser
+X-KDE-PluginInfo-Author=Kenneth Perry (thothonegan)
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Category=Other
+X-KDevelop-Version=13
+X-KDevelop-Category=Global
+X-KDevelop-Mode=GUI

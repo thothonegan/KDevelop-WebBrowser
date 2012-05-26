@@ -3,3 +3,10 @@ CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
+
+.*.kate-bak
+.*.kate-swp
+.*.swp
+
+Build-*
+.kdev4/
